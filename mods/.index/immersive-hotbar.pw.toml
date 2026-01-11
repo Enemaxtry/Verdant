@@ -1,0 +1,17 @@
+filename = 'immersive-hotbar-1.0.4-1.21.9.jar'
+name = 'Immersive Hotbar'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4-1.21.9-1.21.11'
+
+[download]
+hash = '3cb7116f46469cf512a26cf19977a0d2cd7f350acd6c40241aca093b6069464d323a3f30c136ae56328f93a35471a6941ad558ec8b000daa910e2ee3993a9384'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hsPB5xMD/versions/9OyzF6kt/immersive-hotbar-1.0.4-1.21.9.jar'
+
+[update.modrinth]
+mod-id = 'hsPB5xMD'
+version = '9OyzF6kt'

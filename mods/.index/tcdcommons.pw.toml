@@ -1,0 +1,17 @@
+filename = 'tcdcommons-5.0.0-beta.1+fabric-1.21.11.jar'
+name = 'TCDCommons API'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '5.0.0-beta.1+fabric-1.21.11'
+
+[download]
+hash = 'e2758512d950ab6b26630352408daa66e6a3518168d3edf32323dfffa457c7cf84d7ab44aabf29f1d4261d90c31bf62173797fe329dc37ac6ccd2429d512a9cf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Eldc1g37/versions/WxppHfdM/tcdcommons-5.0.0-beta.1%2Bfabric-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'Eldc1g37'
+version = 'WxppHfdM'

@@ -1,0 +1,17 @@
+filename = 'vectorientation-1.1-1.21.10.jar'
+name = 'Vectorientation'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = 'c0d65dc023edc7e8f4138bd50a6dad6e273421ee7da9d8f9913fc654e1dec01cfad4e30556e9a37774b181860175fce3f7e68bac476373bec8a2e809794fa324'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NpPKJQg6/versions/tOGBphkR/vectorientation-1.1-1.21.10.jar'
+
+[update.modrinth]
+mod-id = 'NpPKJQg6'
+version = 'tOGBphkR'

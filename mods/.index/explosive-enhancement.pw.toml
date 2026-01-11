@@ -1,0 +1,17 @@
+filename = 'explosive-enhancement-1.4.1-1.21.11.jar'
+name = 'Explosive Enhancement'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1-1.21.11'
+
+[download]
+hash = 'aeaa351843e654d8fd43d4bf453b8f940195c6dad05be6044118984d036ea126b8b1c30e17700ee0dd1c6ecf202cb77ee03301dada5f82c1e537046bcde390c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OSQ8mw2r/versions/B9iEY7nb/explosive-enhancement-1.4.1-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'OSQ8mw2r'
+version = 'B9iEY7nb'

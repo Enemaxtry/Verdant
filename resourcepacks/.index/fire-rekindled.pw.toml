@@ -1,0 +1,42 @@
+filename = 'Fire_Rekindled.zip'
+name = 'Fire Rekindled'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.20'
+
+[download]
+hash = '7132f94e6e816c7ca08e38103b2c682ea8a37ce1d24911234d273f226441e122a45e442379dfb0a7fca4f599ff2736ac646f75b0e0e398df42ca2009b1061b7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lBQSreft/versions/VLcJz5n8/Fire_Rekindled.zip'
+
+[update.modrinth]
+mod-id = 'lBQSreft'
+version = 'VLcJz5n8'

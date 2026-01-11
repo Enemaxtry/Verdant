@@ -1,0 +1,17 @@
+filename = 'DetailArmorBarReconstructed-5.0.0+1.21.9_11-fabric.jar'
+name = 'Detail Armor Bar Reconstructed'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.0.0+1.21.9_11-fabric'
+
+[download]
+hash = '20d957e2081f279cfedb9f0a8327688814b4cb922a0b6008447d7be8082fc5d62d5147fc74923ab56cf8c0fe2401f7d5d8327807884642be1cd5eab677e4b856'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Si9Uim4y/versions/3wwPVZvu/DetailArmorBarReconstructed-5.0.0%2B1.21.9_11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Si9Uim4y'
+version = '3wwPVZvu'

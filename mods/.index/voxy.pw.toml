@@ -1,0 +1,17 @@
+filename = 'voxy-0.2.8-alpha.jar'
+name = 'voxy'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.2.8-alpha'
+
+[download]
+hash = '2fc5d1700350247266f8ed438f7cdf41fb8adad870fb44d2924e3f80c9a9d1d0a1e9f0ba4436aab3fe34c0553fe9c2483724b71c2575476e5eacb2fdb306ca19'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fxxUqruK/versions/bs9Tu5uz/voxy-0.2.8-alpha.jar'
+
+[update.modrinth]
+mod-id = 'fxxUqruK'
+version = 'bs9Tu5uz'

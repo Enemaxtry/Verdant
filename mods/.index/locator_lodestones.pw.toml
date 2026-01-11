@@ -1,0 +1,17 @@
+filename = 'locator_lodestones-1.4.5+1.21.9+B.jar'
+name = 'Locator Lodestones'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.5+1.21.9+B'
+
+[download]
+hash = '93959d359d194122241151875a834662ab3f90d138a067a3f7b06529fc0abef7d71751e2aee588f3d1d8d17ae7efbbaed8ad2bbdd029c8f7de5a1ffbfaeea413'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pMBcsVIg/versions/QzyD3lSO/locator_lodestones-1.4.5%2B1.21.9%2BB.jar'
+
+[update.modrinth]
+mod-id = 'pMBcsVIg'
+version = 'QzyD3lSO'

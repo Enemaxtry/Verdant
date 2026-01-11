@@ -1,0 +1,17 @@
+filename = 'tightfire-1.21.11-1.0-SNAPSHOT.jar'
+name = 'Tightfire'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0-SNAPSHOT'
+
+[download]
+hash = '3ab5a84dc5dbd0a51dc984ef5273b17d0c7957e3b54b0d0e09e6504f5c5e1afe173850446c494b63fd02031fab5e20ef071fea1edfbd446231e2c30b15342021'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jExZM2Rj/versions/B69x6PF8/tightfire-1.21.11-1.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'jExZM2Rj'
+version = 'B69x6PF8'

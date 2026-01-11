@@ -1,0 +1,17 @@
+filename = 'smoothgui-fabric-1.21.10-1.1.0.jar'
+name = 'Smooth Gui'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '27ae46654011c9cdf1112bf0134553459c77e9bef375cabc9bb88d7116f70beca43c68b2d073b9de4c4045ad79a712c525127136d9a907f49b62d3983751a905'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j6yrZogB/versions/abxI8Nou/smoothgui-fabric-1.21.10-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'j6yrZogB'
+version = 'abxI8Nou'

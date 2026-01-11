@@ -1,0 +1,17 @@
+filename = 'enchancement-1.21.11-r5.jar'
+name = 'Enchancement'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.11-r5'
+
+[download]
+hash = '9dea472d0f251b70d1b43acc6f22be66ca742c6023c1ed777d63591d5888cf0189bd059ace3fa67f091125c61b06fcc3030f024d8f5cadae561ef6669702f4a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6hN1V6wJ/versions/nzHC2Lb5/enchancement-1.21.11-r5.jar'
+
+[update.modrinth]
+mod-id = '6hN1V6wJ'
+version = 'nzHC2Lb5'
