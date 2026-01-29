@@ -25,8 +25,6 @@
 	# Default: 16
 	# Range: -1 ~ 64
 	saddled_horse_wander_radius = 16
-	#Prevents rearing (horse stopping and standing up) when it's being ridden. Default: true.
-	ridden_horse_prevent_rearing = true
 
 [hitching]
 	#Right-clicking a fence while riding will leash the horse to it. Default: true
@@ -111,3 +109,5 @@
 	fix_running_back_after_dismount = true
 	#Horse with Leather Horse Armor equipped can walk on a Powder Snow like a player with Leather Boots. Default: true
 	leather_horse_armor_powder_snow = true
+	#Taming a horse does not require an empty hand. Default: false
+	allow_taming_horse_with_item_in_hand = false
