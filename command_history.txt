@@ -3,3 +3,15 @@
 /time set day
 /chunky start minecraft:overworld circle 0 0 4800 4800
 /chunky progress
+/time set night
+/time set midnight
+/time set day
+/chunky progress
+/time set day
+/chunky pause
+/chunky start minecraft:overworld circle 0 0 2000 2000
+/chunky confirm
+/chunky progress
+/tp GingerHater123 0 0 0
+/locate biome minecraft:frozen_peaks
+/tp @s -624 315 -1440
