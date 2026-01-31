@@ -91,9 +91,9 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 allowCursorChanges:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true

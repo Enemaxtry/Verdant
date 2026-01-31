@@ -15,3 +15,5 @@
 /tp GingerHater123 0 0 0
 /locate biome minecraft:frozen_peaks
 /tp @s -624 315 -1440
+/time set day
+/fill ~ ~ ~ ~ ~ ~ minecraft:end_portal
